@@ -1,4 +1,4 @@
-var hipchatClient = require('../')('aee0523648bbeb0fe89ccc02acff8d');
+var hipchatClient = require('../')('yourAccessToken');
 
 hipchatClient.apiCall('GET', '/rooms/list', {}, function(err, resp) {
     if(!err) {
