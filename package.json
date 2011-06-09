@@ -1,6 +1,6 @@
 {
     "name": "hipchat-js",
-    "description": "Simple Yammer API client",
+    "description": "Simple HipChat API client",
     "version": "0.0.0",
     "author": "Simon Murtha-Smith <simon@murtha-smith.com>",
     "keywords": ["hipchat"],
